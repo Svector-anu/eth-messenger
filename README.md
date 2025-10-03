@@ -250,8 +250,8 @@ A: The contract is open source and verified. Use at your own risk. Consider an a
 
 ## Support & Community
 
-- **Issues**: [GitHub Issues](your-repo/issues)
-- **Discussions**: [GitHub Discussions](your-repo/discussions)
+- **Issues**: [GitHub Issues](https://github.com/Svector-anu/eth-messenger/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/Svector-anu/eth-messenger.git/discussions)
 - **BaseScan**: [View Contract](https://basescan.org/address/0x24DFcA03172Fb3e7E40D0be79678dDCeB287D13c)
 
 ## License
